@@ -1,0 +1,15 @@
+{
+  "name": "winston-consolere-transport",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "author": {
+    "email": "faebeee@gmail.com",
+    "name": "Fabs"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "console-remote-client": "^0.5.1",
+    "winston-transport": "^4.3.0"
+  }
+}
